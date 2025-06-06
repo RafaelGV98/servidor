@@ -1,0 +1,20 @@
+{
+  "name": "productoapi",
+  "version": "1.0.0",
+  "description": "MEAN api",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ."
+  },
+  "author": "rafael guerra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  }
+}
